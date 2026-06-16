@@ -91,6 +91,41 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "teachings-data-structures-lab",
+          title: 'Data Structures — Lab',
+          description: "Practical implementations of core data structures and programming techniques, including command-line file streaming, debugging, dynamic allocation, recursion architectures, elementary sorting, linked lists, stacks, queues, hash tables, and advanced graph algorithms.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/Data%20Structures%20Lab/";
+            },},{id: "teachings-digital-logic-design-dld",
+          title: 'Digital Logic Design (DLD)',
+          description: "This course introduces the concepts &amp; tools for the design of digital electronic circuits using sequential and combinational logic to freshman computer science students.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/Digital%20Logic%20Design/";
+            },},{id: "teachings-discrete-structures",
+          title: 'Discrete Structures',
+          description: "Logic, relations, functions, basic set theory, counting, proof techniques, mathematical induction, graph theory, recursion, recurrence relations, number theory and sequence &amp; series. All the topics will be taught in perspective of their applications in computing.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/Discrete%20Structures/";
+            },},{id: "teachings-object-oriented-programming-lab",
+          title: 'Object-Oriented Programming — Lab',
+          description: "Practical implementation of the object-oriented paradigm. Covers IDE setup, data abstraction, encapsulation, constructors, destructors, inheritance architectures, polymorphism, operator overloading, file handling, templates, and graphical user interfaces using C++ and C#.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/Object%20Oriented%20Programming%20Lab/";
+            },},{id: "teachings-programming-fundamentals-lab",
+          title: 'Programming Fundamentals - Lab',
+          description: "Getting students acquainted with problem understanding, modeling and solving. Covers computation, problem-solving techniques, and complete syntax implementation using the C programming language.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/Programming%20Fundamentals%20-%20Lab/";
+            },},{id: "teachings-programming-fundamentals",
+          title: 'Programming Fundamentals',
+          description: "This course introduces fundamental computing concepts and structured programming methodologies. Students will develop logical reasoning, algorithmic problem-solving skills, and practical programming proficiency using the C language.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/Programming%20Fundamentals/";
+            },},{id: "teachings-theory-of-computation-automata",
+          title: 'Theory of Computation / Automata',
+          description: "Finite State Models, Regular expressions/Regular languages, Finite automata (FAs), Transition graphs (TGs), NFAs, Kleene’s theorem, Transducers, Pumping lemma, CFGs, Pushdown Automata (PDA), Turing Machines Theory, Decidability, and the Chomsky Hierarchy.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/Theory%20of%20Automata/";
             },},{id: "teachings-programming-fundamentals",
           title: 'Programming Fundamentals',
           description: "This course covers the foundational aspects of programming, including computational thinking, algorithm design, and program implementation. Students will develop practical skills for solving real-world problems using structured programming techniques.",
