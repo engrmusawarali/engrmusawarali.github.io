@@ -92,7 +92,7 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{id: "teachings-data-structures-lab",
-          title: 'Data Structures — Lab',
+          title: 'Data Structures - Lab',
           description: "Practical implementations of core data structures and programming techniques, including command-line file streaming, debugging, dynamic allocation, recursion architectures, elementary sorting, linked lists, stacks, queues, hash tables, and advanced graph algorithms.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/Data%20Structures%20Lab/";
@@ -107,7 +107,7 @@ ninja.data = [{
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/Discrete%20Structures/";
             },},{id: "teachings-object-oriented-programming-lab",
-          title: 'Object-Oriented Programming — Lab',
+          title: 'Object - Oriented Programming - Lab',
           description: "Practical implementation of the object-oriented paradigm. Covers IDE setup, data abstraction, encapsulation, constructors, destructors, inheritance architectures, polymorphism, operator overloading, file handling, templates, and graphical user interfaces using C++ and C#.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/Object%20Oriented%20Programming%20Lab/";
@@ -126,11 +126,6 @@ ninja.data = [{
           description: "Finite State Models, Regular expressions/Regular languages, Finite automata (FAs), Transition graphs (TGs), NFAs, Kleene’s theorem, Transducers, Pumping lemma, CFGs, Pushdown Automata (PDA), Turing Machines Theory, Decidability, and the Chomsky Hierarchy.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/Theory%20of%20Automata/";
-            },},{id: "teachings-programming-fundamentals",
-          title: 'Programming Fundamentals',
-          description: "This course covers the foundational aspects of programming, including computational thinking, algorithm design, and program implementation. Students will develop practical skills for solving real-world problems using structured programming techniques.",
-          section: "Teachings",handler: () => {
-              window.location.href = "/teachings/data-science-fundamentals/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
