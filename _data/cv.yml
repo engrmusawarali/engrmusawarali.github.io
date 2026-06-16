@@ -4,8 +4,7 @@ cv:
   email: engrmusawar@gmail.com
   location: Via del Pozzo, No. 6 – 42121 Reggio Emilia (Italy)
   image: ""
-  summary: I did my undergraduate and master’s studies in Software/Computer Engineering in Pakistan. In March 2026, I completed my PhD in Computer Science and Engineering from University of Bologna. My areas of focus are computer vision, and generative models such as diffusion models and neural radiance fields. I am now seeking opportunities in Computer Vision and related fields so as to continueadvancing my work in these areas, with a preference for positions in Italy/Europe.
-
+  summary: In March 2026, I completed my PhD in Computer Science and Engineering with a focus on Computer Vision and Deep Learning from the University of Bologna. Previously, I did my undergraduate and master’s studies in Software/Computer Engineering as well as taught for three years in Pakistan. My areas of focus are generative models such as diffusion models, neural radiance fields and 3D models. I am now a founder and chief technical officer for a small technology startup focusing on landscape architecture and  design in Italy. 
   social_networks:
     - network: X
       username: AlbertEinstein
@@ -15,7 +14,7 @@ cv:
       username: example
 
   address:
-    street: Via del Pozzo, 6
+    
     city: Reggio Emilia
     region:
     postalCode: 42121, Italy
@@ -46,7 +45,7 @@ cv:
       - institution: Mehran University of Engineering and Technology
         location: Jamshoro, Pakistan
         area: Software Engineering
-        studyType: BE
+        studyType: BS
         start_date: 2012
         end_date: 2016
         # highlights#
@@ -165,7 +164,7 @@ cv:
         summary: "Fluent"
 
       - name: Italian
-        summary: "Basic"
+        summary: "Conversational"
 
     # Interests:
     #  - name: Computer Vi

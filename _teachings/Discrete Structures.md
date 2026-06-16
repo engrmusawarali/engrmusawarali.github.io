@@ -5,7 +5,7 @@ description: Logic, relations, functions, basic set theory, counting, proof tech
 instructor: Mr. Musawar Ali
 year: 2021
 term: Fall
-location: FAST - National University of Computer and Emerging Sciences
+location: CS Department, National University of Computer & Emerging Sciences, Karachi
 course_id: CS1005
 schedule:
   - week: 1-5

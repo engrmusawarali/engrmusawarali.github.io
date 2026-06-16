@@ -1,6 +1,6 @@
 ---
 layout: course
-title: Object-Oriented Programming — Lab
+title: Object - Oriented Programming - Lab
 description: Practical implementation of the object-oriented paradigm. Covers IDE setup, data abstraction, encapsulation, constructors, destructors, inheritance architectures, polymorphism, operator overloading, file handling, templates, and graphical user interfaces using C++ and C#.
 instructor: Mr. Musawar Ali
 year: 2021

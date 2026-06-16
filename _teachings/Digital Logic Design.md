@@ -5,7 +5,7 @@ description: This course introduces the concepts & tools for the design of digit
 instructor: Mr. Musawar Ali
 year: 2020
 term: Spring
-location: National University of Computer and Emerging Sciences (NUCES-FAST)
+location: CS Department, National University of Computer & Emerging Sciences, Karachi
 course_id: EE227
 schedule:
   - week: 1

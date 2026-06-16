@@ -1,11 +1,11 @@
 ---
 layout: course
-title: Data Structures — Lab
+title: Data Structures - Lab
 description: Practical implementations of core data structures and programming techniques, including command-line file streaming, debugging, dynamic allocation, recursion architectures, elementary sorting, linked lists, stacks, queues, hash tables, and advanced graph algorithms.
 instructor: Mr. Musawar Ali
 year: 2022
 term: Fall
-location: National University of Computer and Emerging Sciences (FAST-NUCES), Karachi Campus
+location: CS Department, National University of Computer & Emerging Sciences, Karachi
 course_id: CS218 (Lab)
 schedule:
   - week: 1

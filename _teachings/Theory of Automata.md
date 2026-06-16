@@ -5,7 +5,7 @@ description: Finite State Models, Regular expressions/Regular languages, Finite 
 instructor: Mr. Musawar Ali
 year: 2021 & 2022
 term: Spring (2 Semesters)
-location: FAST - National University of Computer and Emerging Sciences
+location: CS Department, National University of Computer & Emerging Sciences, Karachi
 course_id: CS3005
 schedule:
   - week: 1-5

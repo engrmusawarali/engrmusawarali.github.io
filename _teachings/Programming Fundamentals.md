@@ -5,7 +5,7 @@ description: This course introduces fundamental computing concepts and structure
 instructor: Mr. Musawar Ali
 year: 2020 & 2022
 term: Fall
-location: National University of Computers and Emerging Sciences
+location: CS Department, National University of Computer & Emerging Sciences, Karachi
 course_id: CS-118
 schedule:
   - week: 1-2
